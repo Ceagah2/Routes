@@ -1,22 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="WePedal" >
+<gpx version="1.1" creator="WePedal" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata>
-    <name>Test Route Taubaté</name>
+    <name>Custom Taubaté Route</name>
   </metadata>
   <trk>
-    <name>Taubate Route</name>
+    <name>Taubate Street Route</name>
     <trkseg>
-      <trkpt lat="-23.0265" lon="-45.5561">
+      <!-- Avenida Santa Luiza de Marillac, altura do número 230 -->
+      <trkpt lat="-23.0335" lon="-45.5622">
+        <ele>575.0</ele>
+        <time>2024-09-23T08:00:00Z</time>
+      </trkpt>
+
+      <!-- Passando pelo Horto Municipal -->
+      <trkpt lat="-23.0305" lon="-45.5589">
         <ele>580.0</ele>
-        <time>2024-09-23T10:00:00Z</time>
+        <time>2024-09-23T08:05:00Z</time>
       </trkpt>
-      <trkpt lat="-23.0100" lon="-45.5500">
+
+      <!-- Contornando até a rodoviária, Avenida Faria Lima -->
+      <trkpt lat="-23.0240" lon="-45.5565">
+        <ele>590.0</ele>
+        <time>2024-09-23T08:10:00Z</time>
+      </trkpt>
+
+      <!-- Avenida Faria Lima até a pista de skate, Rua Rafael Braga -->
+      <trkpt lat="-23.0200" lon="-45.5520">
         <ele>600.0</ele>
-        <time>2024-09-23T10:05:00Z</time>
+        <time>2024-09-23T08:15:00Z</time>
       </trkpt>
-      <trkpt lat="-23.0000" lon="-45.5400">
+
+      <!-- Rua Rafael Braga até Avenida Dr Benedito Elias de Souza -->
+      <trkpt lat="-23.0160" lon="-45.5450">
+        <ele>610.0</ele>
+        <time>2024-09-23T08:20:00Z</time>
+      </trkpt>
+
+      <!-- Avenida Dr Benedito Elias de Souza até Avenida Dom Duarte Leopoldo e Silva -->
+      <trkpt lat="-23.0100" lon="-45.5380">
         <ele>620.0</ele>
-        <time>2024-09-23T10:10:00Z</time>
+        <time>2024-09-23T08:25:00Z</time>
+      </trkpt>
+
+      <!-- Avenida Dom Duarte Leopoldo e Silva até Avenida Shalom -->
+      <trkpt lat="-23.0050" lon="-45.5300">
+        <ele>630.0</ele>
+        <time>2024-09-23T08:30:00Z</time>
+      </trkpt>
+
+      <!-- Avenida Shalom virando Avenida José Bento Monteiro Lobato até Avenida Cinderela -->
+      <trkpt lat="-23.0000" lon="-45.5200">
+        <ele>640.0</ele>
+        <time>2024-09-23T08:35:00Z</time>
+      </trkpt>
+
+      <!-- Avenida Cinderela até o Cemitério Parque das Palmeiras -->
+      <trkpt lat="-22.9960" lon="-45.5150">
+        <ele>650.0</ele>
+        <time>2024-09-23T08:40:00Z</time>
       </trkpt>
     </trkseg>
   </trk>
