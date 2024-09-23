@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="WePedal">
+<gpx version="1.1" creator="WePedal" >
+  <metadata>
+    <name>Test Route Taubaté</name>
+  </metadata>
   <trk>
-     <name>Rota Avancada de Ciclismo - Taubaté</name>
+    <name>Taubate Route</name>
     <trkseg>
-      <trkpt lat="-23.0278" lon="-45.5553">
-        <ele>560.0</ele>
-        <time>2024-09-12T09:00:00Z</time>
-      </trkpt>
-      <trkpt lat="-23.0305" lon="-45.5700">
+      <trkpt lat="-23.0265" lon="-45.5561">
         <ele>580.0</ele>
-        <time>2024-09-12T09:10:00Z</time>
+        <time>2024-09-23T10:00:00Z</time>
       </trkpt>
-      <trkpt lat="-23.0330" lon="-45.5900">
-        <ele>590.0</ele>
-        <time>2024-09-12T09:20:00Z</time>
+      <trkpt lat="-23.0100" lon="-45.5500">
+        <ele>600.0</ele>
+        <time>2024-09-23T10:05:00Z</time>
       </trkpt>
-      <trkpt lat="-23.0390" lon="-45.6050">
-        <ele>610.0</ele>
-        <time>2024-09-12T09:35:00Z</time>
-      </trkpt>
-      <trkpt lat="-23.0455" lon="-45.6200">
-        <ele>630.0</ele>
-        <time>2024-09-12T09:50:00Z</time>
-      </trkpt>
-      <trkpt lat="-23.0500" lon="-45.6400">
-        <ele>640.0</ele>
-        <time>2024-09-12T10:10:00Z</time>
-      </trkpt>
-      <trkpt lat="-23.0525" lon="-45.6550">
-        <ele>650.0</ele>
-        <time>2024-09-12T10:30:00Z</time>
+      <trkpt lat="-23.0000" lon="-45.5400">
+        <ele>620.0</ele>
+        <time>2024-09-23T10:10:00Z</time>
       </trkpt>
     </trkseg>
   </trk>
