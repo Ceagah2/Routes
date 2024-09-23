@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="WePedal">
+  <trk>
+    <name>Rota Leve de Ciclismo - Taubaté</name>
+    <trkseg>
+      <trkpt lat="-23.0265" lon="-45.5561">
+        <ele>530</ele>
+        <time>2024-01-01T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="-23.0280" lon="-45.5510">
+        <ele>535</ele>
+        <time>2024-01-01T08:05:00Z</time>
+      </trkpt>
+      <trkpt lat="-23.0330" lon="-45.5410">
+        <ele>540</ele>
+        <time>2024-01-01T08:15:00Z</time>
+      </trkpt>
+      <trkpt lat="-23.0350" lon="-45.5380">
+        <ele>530</ele>
+        <time>2024-01-01T08:30:00Z</time>
+      </trkpt>
+      <trkpt lat="-23.0310" lon="-45.5500">
+        <ele>520</ele>
+        <time>2024-01-01T09:00:00Z</time>
+      </trkpt>
+      <trkpt lat="-23.0265" lon="-45.5561">
+        <ele>530</ele>
+        <time>2024-01-01T09:30:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
